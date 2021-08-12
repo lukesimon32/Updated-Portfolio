@@ -2,4 +2,5 @@
 
 * * [Link to deployed web page] https://lukesimon32.github.io/Updated-Portfolio/
 
-![image](https://user-images.githubusercontent.com/84144642/129140417-3c56b8ff-c74e-4cb6-8426-d2b92fe3f541.png
+
+![image](https://user-images.githubusercontent.com/84144642/129141959-7bed13ce-4480-4366-a296-7d55d068bfca.png)
