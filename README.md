@@ -1,3 +1,6 @@
+Personal Portfolio
+
+
 * In this assignment, we were to update our portfolio with our 1st project, resume, github, and Linkdin
 
 * * [Link to deployed web page] https://lukesimon32.github.io/Updated-Portfolio/
